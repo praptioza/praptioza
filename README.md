@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Prapti Oza</h1>
-<h2 align="center">Software Developer | iOS & Web Developer | ML & NLP Enthusiast </h3>
+<h1 align="center">I'm Prapti Oza 🙋‍♀️</h1>
+<h2 align="center">Software Developer | iOS & Web Developer | ML & NLP Enthusiast 👩‍💻</h3>
 
 <h4>🚀 Passionate about building impactful software solutions, I specialize in web and mobile application development, natural language processing, and data-driven systems. </h4>
   
