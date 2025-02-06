@@ -1,17 +1,20 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Prapti Oza 🙋‍♀️</h1>
-<h2 align="center">Software Developer | iOS & Web Developer | ML & NLP Enthusiast 👩‍💻</h3>
+<h2 align="center"> Software Developer | iOS & Web Developer | ML & NLP Enthusiast 👩‍💻</h3>
 
 <h4>🚀 Passionate about building impactful software solutions, I specialize in web and mobile application development, natural language processing, and data-driven systems. </h4>
   
 <h4>📍 Based in San Jose, CA </h4>
-  
+
 <h4>🔍 Actively seeking opportunities in Software Development, iOS Development, and Machine Learning.</h4>
 
 📫 How to reach me **praptioza001@gmail.com**
 
 ⚡ Fun fact **🚀 I enjoy exploring and learning new technologies—always excited to dive into something innovative!**
+
+🎓 Master's of Science in Computer Science, Syracuse University (2022-2024)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,42 +27,48 @@
 
 <h3 align="left"> 📌 Projects </h3>
 
-**Text Summarization**  
+<h4> Text Summarization </h4>
 🔹 NLP-based document summarization using Python, PyQt5, and web scraping.  
 
 🔹 Extractive approach with NLTK, TextBlob, Gensim, and spaCy for sentiment analysis & entity recognition.  
 
-**Named Entity Recognition**  
+
+<h4> Named Entity Recognition </h4> 
 🔹 NER system leveraging Huggingface Transformer, spaCy, and Stanza.  
 
 🔹 Achieved 83% accuracy in entity recognition with optimized ML-based approaches.  
 
-**StudyBuddy**  
+
+<h4> StudyBuddy </h4>
 🔹 Django-based learning platform for finding study partners and forming study groups.  
 
 🔹 Implemented real-time messaging, user authentication, and profile management.  
 
-**Blossom**  
-🔹 iOS app for plant care & trading, with MapKit for real-time location tracking.  
 
-🔹 Integrated Trefle API for plant descriptions and Firebase for authentication.  
-
-**HR Department Database**  
+<h4> HR Department Database </h4> 
 🔹 SQL Server-based database for efficient employee data management and tracking.  
 
 🔹 Automated workflows for recruitment, scheduling, and applicant status tracking.  
 
-**TMDB Movies Application**  
+
+<h4> Dice Game </h4>
+🔹 Architected a two-player dice game using Swift and Storyboard, incorporating unique rules, real-time score tracking, goal-setting mechanisms, bonus point systems, and round-based gameplay for an engaging user experience.  
+
+🔹 Designed interactive UI elements with responsive layouts and alert event handling, ensuring compatibility across various screen sizes and enhancing user interaction.  
+
+
+<h4> TMDB Movies Application </h4>
 🔹 Engineered an iOS mobile application using SwiftUI, integrating the TMDB API to showcase movies with custom table view cells and detailed view pages, boosting UI performance by 20%.  
 
 🔹 Built robust user authentication and account management features with Firebase, supporting real-time review storage and retrieval while ensuring secure and seamless functionality.  
 
 🔹 Leveraged the Model-View-ViewModel (MVVM) design pattern to streamline data handling, increasing scalability and maintainability, and reducing crash issues by 15%.  
 
-**Dice Game**  
-🔹 Architected a two-player dice game using Swift and Storyboard, incorporating unique rules, real-time score tracking, goal-setting mechanisms, bonus point systems, and round-based gameplay for an engaging user experience.  
 
-🔹 Designed interactive UI elements with responsive layouts and alert event handling, ensuring compatibility across various screen sizes and enhancing user interaction.  
+<h4> Blossom </h4>
+🔹 iOS app for plant care & trading, with MapKit for real-time location tracking.  
+
+🔹 Integrated Trefle API for plant descriptions and Firebase for authentication.  
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptioza&show_icons=true&locale=en&layout=compact" alt="praptioza" /></p>
