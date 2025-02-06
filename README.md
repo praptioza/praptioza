@@ -49,5 +49,17 @@
 
 🔹 Automated workflows for recruitment, scheduling, and applicant status tracking.  
 
+**TMDB Movies Application**  
+🔹 Engineered an iOS mobile application using SwiftUI, integrating the TMDB API to showcase movies with custom table view cells and detailed view pages, boosting UI performance by 20%.  
+
+🔹 Built robust user authentication and account management features with Firebase, supporting real-time review storage and retrieval while ensuring secure and seamless functionality.  
+
+🔹 Leveraged the Model-View-ViewModel (MVVM) design pattern to streamline data handling, increasing scalability and maintainability, and reducing crash issues by 15%.  
+
+**Dice Game**  
+🔹 Architected a two-player dice game using Swift and Storyboard, incorporating unique rules, real-time score tracking, goal-setting mechanisms, bonus point systems, and round-based gameplay for an engaging user experience.  
+
+🔹 Designed interactive UI elements with responsive layouts and alert event handling, ensuring compatibility across various screen sizes and enhancing user interaction.  
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptioza&show_icons=true&locale=en&layout=compact" alt="praptioza" /></p>
