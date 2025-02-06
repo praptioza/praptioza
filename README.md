@@ -1,8 +1,15 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Prapti Oza</h1>
-<h3 align="center">Software Developer | iOS & Web Developer | ML & NLP Enthusiast 🚀 Passionate about building impactful software solutions, I specialize in web and mobile application development, natural language processing, and data-driven systems. 📍 Based in San Jose, CA 🔍 Actively seeking opportunities in Software Development, iOS Development, and Machine Learning.</h3>
+<h3 align="center">Software Developer | iOS & Web Developer | ML & NLP Enthusiast </h3>
 
+<h2>🚀 Passionate about building impactful software solutions, I specialize in web and mobile application development, natural language processing, and data-driven systems. 
+  
+  📍 Based in San Jose, CA 
+  
+  🔍 Actively seeking opportunities in Software Development, iOS Development, and Machine Learning.</h2>
+
+  
 - 📫 How to reach me **praptioza001@gmail.com**
 
 - ⚡ Fun fact **🚀 I enjoy exploring and learning new technologies—always excited to dive into something innovative!**
