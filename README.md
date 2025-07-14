@@ -9,9 +9,9 @@
 
 <h4>Currently Seeking: Entry-level Software Engineer, Full-Stack Developer, iOS Developer, or Database Engineer roles where I can contribute to impactful projects while growing under experienced mentorship. </h4>
 
-📫 How to reach me **praptioza001@gmail.com**
+📫 How to reach me: praptioza001@gmail.com
 
-⚡ Fun fact ** I enjoy exploring and learning new technologies—always excited to dive into something innovative!**
+⚡ Fun fact: I enjoy exploring and learning new technologies—always excited to dive into something innovative!
 
 🎓 Master's of Science in Computer Science, Syracuse University, New York, USA (2022-2024)
 
