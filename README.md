@@ -1,17 +1,15 @@
-## Hi there 👋
-
-<h1 align="center">I'm Prapti Oza </h1>
-<h2 align="center"> MS in Computer Science | Software Engineer | iOS Developer (Swift/SwiftUI) | Full-Stack Developer (Python, C#/.NET, React) | Cloud & Data Enthusiast | Open to Entry-Level Fulltime/Intern Roles </h3>
+<h1 align="center">Prapti Oza </h1>
+<h2 align="center"> MS in Computer Science | Software Engineer | iOS Developer (Swift/SwiftUI) | Cloud & Data Enthusiast | Open to Entry-Level Fulltime/Intern Roles </h3>
 
 <h4> Passionate about building impactful software solutions, I specialize in web and mobile application development, natural language processing, and data-driven systems. </h4>
   
 <h4> Based in Ahmedabad, Gujarat, India </h4>
 
-<h4>Currently Seeking: Entry-level Software Engineer, Full-Stack Developer, iOS Developer, or Database Engineer roles where I can contribute to impactful projects while growing under experienced mentorship. </h4>
+<h4>Currently Seeking: Entry-level Software Engineer, iOS Mobile Application Developer, or Database Engineer roles where I can contribute to impactful projects while growing under experienced mentorship. </h4>
 
 📫 How to reach me: praptioza001@gmail.com
 
-⚡ Fun fact: I enjoy exploring and learning new technologies—always excited to dive into something innovative!
+⚡ I enjoy exploring and learning new technologies—always excited to dive into something innovative!
 
 🎓 Master's of Science in Computer Science, Syracuse University, New York, USA (2022-2024)
 
